@@ -1,0 +1,2 @@
+# lync-sdk-sample
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c8cdada6ee034ca4bb25d5f4e1f1d502)](https://app.codacy.com/manual/0xkasun/lync-sdk-sample?utm_source=github.com&utm_medium=referral&utm_content=0xkasun/lync-sdk-sample&utm_campaign=Badge_Grade_Dashboard)
